@@ -1,3 +1,5 @@
+require 'pry'
+
 def unsafe?(speed)
 
 if unsafe < 40
