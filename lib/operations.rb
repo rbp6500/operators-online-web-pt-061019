@@ -11,7 +11,7 @@ end
 def not_safe?(speed)
 	
 	safe ? > 60 : "not_safe"
-	  
+	binding.pro  
 	
 	  
 end
